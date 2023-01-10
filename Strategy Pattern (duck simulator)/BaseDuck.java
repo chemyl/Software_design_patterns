@@ -26,7 +26,7 @@ public abstract class BaseDuck {
         flyBehavior = fb;
     }
 
-    public void setQuackBehavior (QuackBehavior qb){
+    public void setQuackBehavior(QuackBehavior qb) {
         quackBehavior = qb;
     }
 }

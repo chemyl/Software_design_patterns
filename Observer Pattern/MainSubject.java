@@ -1,4 +1,4 @@
-public class MainSubject implements Subjecting{
+public class MainSubject implements Subjecting {
     @Override
     public void addToObservers() {
 
